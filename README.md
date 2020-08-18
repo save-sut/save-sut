@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Save's Most Used Languages](https://github-readme-stats.vercel.app/api?username=save-sut&show_icons=true&count_private=true&theme=dracula)
+![Save's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=save-sut&layout=compact&theme=dracula)
+<!--!
+[Save's Most Used Languages](https://github-readme-stats.vercel.app/api?username=save-sut&show_icons=true&count_private=true&theme=dracula)
+-->
 
 <!--
 **save-sut/save-sut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
